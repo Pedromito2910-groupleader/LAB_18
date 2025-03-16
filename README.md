@@ -1,2 +1,2 @@
-# LAB_18
+# While
 ## Algoritimo que mostra o while
